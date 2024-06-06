@@ -1,0 +1,14 @@
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\bin\Debug\net7.0\zad10wzorce.exe
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\bin\Debug\net7.0\zad10wzorce.deps.json
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\bin\Debug\net7.0\zad10wzorce.runtimeconfig.json
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\bin\Debug\net7.0\zad10wzorce.dll
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\bin\Debug\net7.0\zad10wzorce.pdb
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\obj\Debug\net7.0\zad10wzorce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\obj\Debug\net7.0\zad10wzorce.AssemblyInfoInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\obj\Debug\net7.0\zad10wzorce.AssemblyInfo.cs
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\obj\Debug\net7.0\zad10wzorce.csproj.CoreCompileInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\obj\Debug\net7.0\zad10wzorce.dll
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\obj\Debug\net7.0\refint\zad10wzorce.dll
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\obj\Debug\net7.0\zad10wzorce.pdb
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\obj\Debug\net7.0\zad10wzorce.genruntimeconfig.cache
+C:\Users\zydus\OneDrive\Pulpit\zad10wzorce\zad10wzorce\obj\Debug\net7.0\ref\zad10wzorce.dll
